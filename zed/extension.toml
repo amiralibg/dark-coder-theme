@@ -1,0 +1,7 @@
+id = "dark-matter-code"
+name = "Dark Matter Code"
+version = "0.0.7"
+schema_version = 1
+authors = ["Amirali Beigi"]
+description = "True-black Dark Matter Code theme for Zed"
+repository = "https://github.com/amiralibg/dark-coder-theme"

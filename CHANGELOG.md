@@ -47,6 +47,16 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 - Replaced default VS Code colors with custom theme colors for consistency
 - Improved color harmony throughout the interface
 
+## [0.0.7] - 2026-08-26
+
+### Added
+- **Dark Matter Code Black**: A true-black theme variant with `#000000` editor, panel, sidebar, gutter, tab, and title-bar backgrounds.
+- Added the Black theme to the VS Code extension theme selector.
+- Added a Zed port under `zed/` using the Zed `v0.2.0` theme schema.
+
+### Changed
+- Bumped the VS Code extension version to `0.0.7`.
+
 ## [Unreleased]
 
 - Initial release
