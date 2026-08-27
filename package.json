@@ -2,7 +2,7 @@
   "name": "dark-matter-code",
   "displayName": "Dark Matter Code",
   "description": "Easy to read color theme for the night owls",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "engines": {
     "vscode": "^1.93.0"
   },
@@ -10,18 +10,13 @@
   "publisher": "AmiraliBeigi",
   "repository": {
     "type": "git",
-    "url": "https://github.com/amiralibg/dark-coder-theme"
+    "url": "https://github.com/amiralibg/Dark-Matter-Code"
   },
   "categories": [
     "Themes"
   ],
   "contributes": {
     "themes": [
-      {
-        "label": "Dark Matter Code Black",
-        "uiTheme": "vs-dark",
-        "path": "./themes/DarkMatterCode-Black-color-theme.json"
-      },
       {
         "label": "Dark Matter Code Mars Medium",
         "uiTheme": "vs-dark",
@@ -51,6 +46,11 @@
         "label": "Dark Matter Code Neptune Hard",
         "uiTheme": "vs-dark",
         "path": "./themes/DarkMatterCode-Neptune-Hard-color-theme.json"
+      },
+      {
+        "label": "Dark Matter Code Pluto",
+        "uiTheme": "vs-dark",
+        "path": "./themes/DarkMatterCode-Pluto-color-theme.json"
       }
     ]
   }

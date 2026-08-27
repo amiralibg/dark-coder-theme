@@ -1878,6 +1878,6 @@
     "tab.activeBorderTop": "#00000000",
     "tab.inactiveBackground": "#16161E",
     "minimap.background": "#16161E",
-    "editorGroup.emptyBackground": "#16161E",
+    "editorGroup.emptyBackground": "#16161E"
   }
 }

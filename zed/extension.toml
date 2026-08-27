@@ -1,7 +1,7 @@
-id = "dark-matter-code"
+id = "dark-matter-code-theme"
 name = "Dark Matter Code"
-version = "0.0.7"
+version = "0.0.8"
 schema_version = 1
 authors = ["Amirali Beigi"]
-description = "True-black Dark Matter Code theme for Zed"
-repository = "https://github.com/amiralibg/dark-coder-theme"
+description = "Dark themes for the night owls — Mars (warm), Neptune (cool) and Pluto (true black)."
+repository = "https://github.com/amiralibg/Dark-Matter-Code"

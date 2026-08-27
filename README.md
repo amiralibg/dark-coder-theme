@@ -16,8 +16,18 @@ This extension includes 7 theme variations:
 - **Dark Matter Code Neptune Soft** - Lower contrast variant with cool blue tints
 - **Dark Matter Code Neptune Hard** - Higher contrast with deep blue backgrounds
 
-### Black Collection (True Black)
-- **Dark Matter Code Black** - True black editor and application backgrounds with bright, readable syntax colors
+### Pluto (True Black)
+- **Dark Matter Code Pluto** - True black editor and application backgrounds, OLED-friendly, with bright, readable syntax colors
+
+## Zed
+
+A Zed port of all seven themes lives in [`zed/`](./zed). To use it immediately:
+
+```bash
+cp zed/themes/dark-matter-code.json ~/.config/zed/themes/dark-matter-code.json
+```
+
+See [`zed/README.md`](./zed/README.md) for dev-extension install and gallery publishing.
 
 ## Features
 - Dark, minimalistic color scheme

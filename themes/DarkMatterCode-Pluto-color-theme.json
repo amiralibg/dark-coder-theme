@@ -1,5 +1,5 @@
 {
-  "name": "Dark Matter Code Black",
+  "name": "Dark Matter Code Pluto",
   "type": "dark",
   "semanticHighlighting": true,
   "semanticTokenColors": {
@@ -1863,6 +1863,7 @@
     "badge.background": "#4d4d4d",
     "badge.foreground": "#ffffff",
     "terminal.foreground": "#cccccc",
+    "terminal.ansiBlack": "#3b3b3b",
     "terminal.selectionBackground": "#ffffff40",
     "terminalCursor.background": "#8e4cfd",
     "terminalCursor.foreground": "#ffffff",

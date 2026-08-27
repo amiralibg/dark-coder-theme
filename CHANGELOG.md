@@ -47,6 +47,20 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 - Replaced default VS Code colors with custom theme colors for consistency
 - Improved color harmony throughout the interface
 
+## [0.0.8] - 2026-08-27
+
+### Added
+- Zed port now ships **all seven themes** (Mars Medium/Soft/Hard, Neptune Medium/Soft/Hard, Pluto) in `zed/themes/dark-matter-code.json`, previously only the black variant was present.
+- `terminal.ansiBlack` (`#3b3b3b`) on Pluto, so ANSI black text is not invisible against the `#000000` terminal background.
+
+### Changed
+- **Renamed `Dark Matter Code Black` to `Dark Matter Code Pluto`**, matching the planetary naming used by the Mars and Neptune collections. The theme file moved from `DarkMatterCode-Black-color-theme.json` to `DarkMatterCode-Pluto-color-theme.json`.
+- Reordered the theme list to Mars → Neptune → Pluto.
+- Bumped the VS Code extension and Zed extension to `0.0.8`.
+
+### Fixed
+- Removed trailing commas from the Mars Hard and Neptune Hard theme files so every theme is strict JSON.
+
 ## [0.0.7] - 2026-08-26
 
 ### Added
